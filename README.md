@@ -1,4 +1,4 @@
-# Drug overdose deaths are a major public health crisis, causing high mortality and economic burden. Accurate data analysis is essential for effective policies, prevention strategies, and targeted interventions.
+Drug overdose deaths are a major public health crisis, causing high mortality and economic burden. Accurate data analysis is essential for effective policies, prevention strategies, and targeted interventions.
 
 # Abstract
 This project addresses the escalating crisis of drug overdose deaths by developing a classification model to predict the type of drug most likely responsible for overdose deaths in various demographic groups in the U.S. Using a comprehensive dataset from Data.gov, the model aims to identify high-risk demographics for targeted prevention and intervention efforts. Several machine learning algorithms, including Logistic Regression, Naive Bayes, Random Forest, SVM, and GBM, are compared to select the most effective model.
